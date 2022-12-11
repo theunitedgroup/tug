@@ -417,7 +417,13 @@ bootstrap.min.css:5
 }
 
 
-
+#trust{background-color: #009F4D; text-align: center; padding: 80px 0px;color:#fff}
+#trust .section-heading{}
+#trust .section-heading p, 
+#trust .section-heading h4,
+#trust .section-heading h6,
+#trust .section-heading blockquote
+{color:#fff}
 
 #blog {
 	background-image: url(../img/blog-bg.jpg);
